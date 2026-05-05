@@ -1,0 +1,27 @@
+hoje tava chovendo - CONDICAO
+
+IF
+se ta chovendo
+    eu levo guarda chuva
+ELSE IF
+se nao, se sair sol
+    eu nao levo guarda chuva
+
+hoje eu me atrasei - CONDICAO
+
+IF
+se eu nao conseguir pegar o onibus
+   eu vou de skate
+ELSE IF
+se nao, se construir
+  vai pegar e ir de onibus
+
+  eu tenho 19 anos - CONDICAO
+
+  IF
+  se a idade for maior que 18 
+    pode tirar a habilitacao
+ ELSE IF
+ se a idade for menor que 18
+    nao pode tirar a habilitacao
+    
